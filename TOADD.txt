@@ -1,0 +1,4 @@
+Potential New Features:
+- Increase the rate or reload over time, like the respawn rate, such that as the game increase in speed it is still possible to keep fighting.
+- Sprint, to add variety to movement.
+- Different maps, to add variety of play.
