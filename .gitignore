@@ -1,0 +1,53 @@
+# Unity .gitignore
+# Reference: https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+# OS generated files
+.[Dd]S_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.sdf
+*.VC.db
+*.sln.docstates
+
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+MemoryCaptures/
+
+# Built player folders (keep builds out of repo; use Releases)
+/Built/
+/Built_Data/
+/MonoBleedingEdge/
+
+# Asset store packages
+/Assets/AssetStoreTools*
+
+# Crashlytics, Unity Cache Server, etc.
+.collab/
+.cache/
+
+# Package cache
+/Library/PackageCache/
+
+# Misc
+sysinfo.txt
+*.pidb
+*.booproj
+*.svd
+*.unitypackage
+*.log
